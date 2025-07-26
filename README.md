@@ -4,7 +4,7 @@ Three simple games deployed with Streamlit:
 
 ## 1. Guess the Word Game
 This game gives you a secret word, and you have to guess the letters one by one. If the letter is in the word, it gets filled in; if not, you try again. When you guess the full word, you win 🎉
-Play here: [https://interactivegames-kwbkvffor4ija3zts9jcxy.streamlit.app/](https://interactivegames-kwbkvffor4ija3zts9jcxy.streamlit.app/)
+Play here: [https://interactivegames-mmxidmx6kaavpyttsnmkbg.streamlit.app/](https://interactivegames-mmxidmx6kaavpyttsnmkbg.streamlit.app/)
 
 ## 2. Snakes and Ladders Game
 This game is like playing Snakes and Ladders on the computer. You roll a dice to move forward, but if you land on a snake, you slide down, and if you land on a ladder, you climb up. The goal is to reach square 100 first and win the game! 
