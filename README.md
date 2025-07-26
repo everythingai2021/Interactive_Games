@@ -1,4 +1,4 @@
-# Interactive Python Games
+#Interactive Python Games
 
 Three simple games deployed with Streamlit:
 
